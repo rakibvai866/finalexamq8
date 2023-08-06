@@ -1,0 +1,22 @@
+button:hover {
+    background-color: #ffcc00;
+  }
+
+  a:active {
+    color: #ff0000;
+  }
+
+  
+  input:focus {
+    border: 2px solid #00cc00;
+  }
+
+  ul li:first-child {
+    font-weight: bold;
+  }
+
+  
+  li:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  
